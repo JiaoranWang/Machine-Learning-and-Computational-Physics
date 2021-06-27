@@ -2,7 +2,7 @@
 
 
 ## Getting started with Python and TensorFlow
-### This assignment is intended to direct students to the necessary resources and
+> This assignment is intended to direct students to the necessary resources and
 tutorials about programming concepts that will be used in this course. While
 some of you might have prior experience of coding with Python (and its libraries
 such as Numpy, TensorFlow etc.), you are highly encouraged to go through the
