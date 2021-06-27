@@ -1,16 +1,17 @@
 # Machine-Learning-and-Computational-Physics
-Machine Learning and Computational Physics
 
-Getting started with Python and TensorFlow
-This assignment is intended to direct students to the necessary resources and
+
+## Getting started with Python and TensorFlow
+### This assignment is intended to direct students to the necessary resources and
 tutorials about programming concepts that will be used in this course. While
 some of you might have prior experience of coding with Python (and its libraries
 such as Numpy, TensorFlow etc.), you are highly encouraged to go through the
 material to revise various concepts.
-1 Python basics, NumPy and plotting
-(a) https://cs231n.github.io/python-numpy-tutorial/ (recommended).
-(b) https://www.w3schools.com/python/ (optional).
-(c) https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/ (optional).
+
+#### 1 Python basics, NumPy and plotting
+#### (a) https://cs231n.github.io/python-numpy-tutorial/ (recommended).
+#### (b) https://www.w3schools.com/python/ (optional).
+#### (c) https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/ (optional).
 2 Basics of TensorFlow and Keras
 (a) The beginners tutorial at https://www.tensorflow.org/tutorials (recommended).
 (b) https://pythonprogramming.net/introduction-deep-learning-python-tensorflowkeras/ (optional).
